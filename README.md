@@ -5,3 +5,4 @@ Functions:
 2) User enters grade cutoffs and app calculates minimum remaining grades to receive an inputed desired grade.
 3) Username/password database for app to remember past entries.
 
+![Picture](https://raw.github.com/rswang/grade.me/master/grademe.png)
